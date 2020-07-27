@@ -3924,6 +3924,9 @@ filechooser placessidebar.sidebar list scrollbar, .nemo-window .sidebar scrollba
   border-bottom-width: 0;
   font-weight: bold; }
 
+#whiskermenu-window treeview, entry {
+  background-color: rgba(64,64,64,0.5); }
+
 window.background.lightdm menubar > menuitem {
   padding: 0 5px 0 5px; }
 
